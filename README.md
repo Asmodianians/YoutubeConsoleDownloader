@@ -7,6 +7,7 @@ Used package [Etherna.YoutubeDownloader](https://github.com/Etherna/youtube-down
 [ffmpeg.exe](https://www.ffmpeg.org/)
 
 #Terms of use[[?]](https://github.com/Tyrrrz/.github/blob/master/docs/why-so-political.md)
+
 By using this project or its source code, for any purpose and in any shape or form, you grant your implicit agreement to all the following statements:
 You condemn Russia and its military aggression against Ukraine
 You recognize that Russia is an occupant that unlawfully invaded a sovereign state
