@@ -14,5 +14,5 @@ You support Ukraine's territorial integrity, including its claims over temporari
 You reject false narratives perpetuated by Russian state propaganda
 To learn more about the war and how you can help, [click here](https://tyrrrz.me/ukraine). Glory to Ukraine! 🇺🇦
 
- [Stable release]()
+ [Stable release](https://github.com/Asmodianians/YoutubeConsoleDownloader/releases/tag/v0.0.1)
 Кому потрібна англійська чи інша мова, перекладач на допомогу, там небагато :)
